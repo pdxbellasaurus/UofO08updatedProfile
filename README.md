@@ -5,6 +5,7 @@
 ## Table of Contents
 * [Overview](#Overview)
 * [Concept](#Concept)
+* [First Iteration](#first-iteration)
 * [Final Look and Responsiveness](#final-look-and-responsiveness)
 ## Overview
 A responsive portfolio page for an employer to view a potential employee's deployed portfolio of work samples. The portfolio page showcase's a potential employee's skills and talents to employers looking to fill a part-time or full-time position. This project utilizes HTML, Bulma and CSS. 
@@ -15,7 +16,7 @@ A responsive portfolio page for an employer to view a potential employee's deplo
 
 ## First Iteration using HTML and CSS
 
-[First Iteration]()
+[View Deployed First Iteration](https://pdxbellasaurus.github.io/02AdvancedCssHtmlPortfolio/)
 
 <img width="110" alt="concept1st-iteration-pic" src="https://user-images.githubusercontent.com/74746211/119326268-92146c80-bc36-11eb-8dcd-ac8635748956.PNG"> 
 
