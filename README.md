@@ -22,12 +22,11 @@ A responsive portfolio page for an employer to view a potential employee's deplo
 
 ## Final Look and Responsiveness
 
- Below images show the final look of the page. 
+Below images show the final look of the page. 
 
-![Final Look]()
+![Final Look](https://user-images.githubusercontent.com/74746211/122359224-3b831100-cf0a-11eb-9d3c-e304fa581558.png)
 
 -------------------------------
-
 
 Week 08 Homework - UofO08updatedProfile
 
