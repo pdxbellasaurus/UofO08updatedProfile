@@ -1,0 +1,223 @@
+:root {
+    --txtcolor: #fff;
+    --subtxt: #8bc24a;
+    --rawrgreen: #009688;
+    --rawrblu: #039be5;
+    --bgcolor: #00517c;
+    --yellow: #ffeb38;
+    --grycolor: #cfd8dc;
+    --linkedin: #0077b5; 
+    --github: #333;
+  }
+  h1.subtitle {
+    color: #8bc24a
+  }
+
+body.bgcolor,
+.tile.bgcolor, 
+nav.navbar {
+    background: var(--bgcolor);
+  }
+
+  p.clever{
+    color: var(--rawrgreen);
+    font-style: italic;
+    font-size: 1.5rem;
+    text-decoration: underline overline var(--rawrblu);
+  }
+  
+  .hero:hover #clever {
+    display:inline;
+  }
+  
+  #clever {
+    display:none;
+    }
+
+.tile.img1{
+  background-image: url(img1.jpg);
+}
+.tile.img2{
+  background-image: url(img2.jpg);
+}
+.tile.img3{
+  background-image: url(img3.jpg);
+}
+.tile.img4{
+  background-image: url(img4.jpg);
+}
+.tile.img5{
+    background-image: url(img5.jpg);
+}
+.tile.border{
+  border: 5px solid #ffeb38;
+}
+
+/* .custom-bg-lt-green{
+    background-color: var(--subtxt);
+}
+.custom-bg-green{
+    background-color: var(--rawrgreen);
+}
+.custom-bg-lt-blue{
+    background: var(--rawrblu);
+}
+.title.custom-bg-blue{
+    background-color: var(--bgcolor);
+}
+.custom-bg-yellow{
+    background-color: var(--yellow);
+} */
+
+.bellapic {
+  border-radius: 5px 20px 5px;
+  border: 6px solid var(--grycolor);
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto; */
+}
+i {
+color: var(--rawrgreen);
+}
+
+button {
+  background-color: #0077b5;
+    border: 2px solid #0077b5;
+    text-align: left;
+}
+.tile.side{
+  border-right: 4px solid var(--grycolor);
+}
+  /*
+  body {
+  background-color: var(--bgcolor);
+  line-height: 1.5;
+  margin: 10px;
+  color: var(--grycolor);
+  }
+  
+  .title {
+    color: var(--subtxt);
+  }
+  
+  
+  nav a:hover:not(.active) {
+    background-color: var(--rawrblu);
+  }
+  
+  .active {
+    background-color: var(--subtxt);
+  }
+  
+  #hero{
+    float: right;
+    margin-top: 50px;
+    color: var(--grycolor);
+    font-style: italic;
+    font-size: 1.5rem;
+    text-decoration: underline overline var(--rawrblu);
+  }
+  
+  #hero:hover #clever {
+    display:inline;
+  }
+  
+  #clever {
+    display:none;
+    }
+  
+  #aboutme {
+    font-size: 1.75em;
+    margin-top: unset;
+  }
+  
+  .about {
+    min-width: 150px;
+    text-align: right;
+    padding-right: 20px;
+    border-right: 8px solid var(--grycolor);
+  }
+  
+  .bellapic {
+    border-radius: 5px 20px 5px;
+    border: 6px solid var(--grycolor);
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .bellatalk {
+    width: 100%;
+    margin-left: 20px;
+    font-size: 1.5rem;
+  }
+  
+  .myname {
+    font-weight: lighter;
+    text-align: center;
+  }
+  */
+
+  /* ========================ICONS */
+
+   /* 
+  .contact {
+    font-size: 1.75rem;
+    text-align: center;
+  }
+  
+  .contact a {
+    display:inline-block;
+    color: var(--rawrblu);
+  }
+  
+  .contact a:hover {
+    color: var(--subtxt);
+  }
+  .contact a + a {
+    padding-left: .75rem;
+  }
+  
+  #mywork {
+   
+    min-width: 150px;
+    padding-right: 20px;
+    font-size: 1.75em;
+    text-align: right;
+    border-right: 8px solid var(--grycolor);
+    display: block;
+  }
+  
+  .projects {
+    line-height: 1.1;
+  }
+  
+  .projects article {
+    position: relative;
+    border: 5px solid #ffeb38;
+    margin-left: 20px;
+    margin: 20px 0px 0px 20px;
+    height: 150px;
+  }
+  .projects article:hover {
+    color: rgba(255, 255, 255, 1);
+    box-shadow: 0 5px 15px var(--yellow);
+  }
+  */
+  
+  /*========================== LABEL */
+  
+  
+   /* 
+  h3 {
+    position: absolute;
+    top: 25%;
+    background-color: var(--bgcolor);
+    padding: 5px;
+  }
+  
+  small {
+    font-weight: lighter;
+  }
+  */
